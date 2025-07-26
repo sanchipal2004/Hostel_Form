@@ -27,7 +27,7 @@ A web application designed for hostel residents to submit a digital prerequisite
 ## 🚀 How to Run Locally
 
 ###  Clone the Repository
-git clone https://github.com/your-username/hostel-prerequisite-form.git
+git clone https://github.com/sanchipal2004/Hostel_Form.git
 cd hostel-prerequisite-form
 
 ##📸 Screenshots
