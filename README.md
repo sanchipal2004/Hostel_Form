@@ -7,13 +7,12 @@ A web application designed for hostel residents to submit a digital prerequisite
 
 ## ✨ Features
 
-- 📝 Online form to request home leave from hostel
-- 📅 Leave date, return date, and reason input
-- 👨‍👩‍👧 Parent/guardian contact info
-- ✅ Form validation to ensure completeness
-- 🔐 Admin panel (optional) to view & approve requests
-- 📩 SMS/Email notification to guardians or warden
-- 📱 Mobile-friendly and responsive design
+-  Online form to request home leave from hostel
+-  Leave date, return date, and reason input
+-  Parent/guardian contact info
+-  Form validation to ensure completeness
+-  SMS/Email notification to guardians or warden
+-  Mobile-friendly and responsive design
 
 ---
 ## 🛠 Tech Stack
@@ -28,7 +27,7 @@ A web application designed for hostel residents to submit a digital prerequisite
 
 ###  Clone the Repository
 git clone https://github.com/sanchipal2004/Hostel_Form.git
-cd hostel-prerequisite-form
+
 
 ##📸 Screenshots
 
