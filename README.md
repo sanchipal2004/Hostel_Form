@@ -28,6 +28,19 @@ A web application designed for hostel residents to submit a digital prerequisite
 ###  Clone the Repository
 git clone https://github.com/sanchipal2004/Hostel_Form.git
 
+1. Frontend
+   
+   cd hostelF
+   
+   npm run dev
+   
+2. Backend
+
+   cd hostelbackend
+
+   nodemon index.js
+     
+
 
 ##📸 Screenshots
 
