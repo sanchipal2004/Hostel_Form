@@ -16,7 +16,7 @@ const Error = () => {
             <span className='text-3xl font-semibold'>Something Went</span><span className='text-4xl font-bold'> WRONG!</span>
             <span className='text-md '>Oops!The page that you are looking for doesn't exist</span>
             <div className="button my-2 bg-blue-700 w-32 p-2 text-center text-white">
-            <button onClick={handleback}>Go Back</button>
+            <button onClick={handleback}>not Back</button>
             </div>
         </div>
       </div>
