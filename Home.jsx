@@ -10,7 +10,7 @@ const home = () => {
    <div className=" absolute mx-52 top-5">
     <Navbar/>
     </div>
-     <div className=" absolute mx-16  top-52">
+     <div className=" absolute mx-16  top-57">
    < Header/>
    
    </div>
